@@ -2,3 +2,4 @@
 nabha
 patiala
 rakhra
+zila
